@@ -56,4 +56,4 @@ _June 2021 - April 2023_
 | <a href="https://www.linkedin.com/in/joshuawiser">LinkedIn</a>
 </div>
 
-<!-- Last updated: December 2023 -->
+<!-- Last updated: [Date] -->
