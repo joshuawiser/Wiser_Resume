@@ -1,60 +1,59 @@
-# md-resume
+---
+layout: resume
+title: Joshua Wiser's Resume
+---
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+# Joshua Wiser
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+535 W Mariah Ave Apt 4308 | Rexburg, ID 83440 | jwiser2053@gmail.com | 425.879.7322
 
-***
+## Education
 
-## Customization
+**Brigham Young University - Idaho**, Rexburg, ID  
+_B.S in Computer Science with a Minor in Data Science_  
+_Planned Graduation: April 2025_
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+## Experience
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Squeeze Media, Rexburg, ID
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+_Sales Experience Manager_  
+_April 2023 - Present_
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+- Actively lead multiple teams of sales experience representatives, providing guidance and support for performance and development.
+- Coach and mentor team members, addressing concerns and assisting with problem-solving.
+- Collaborate with other management to ensure smooth site operation and enhance overall performance.
+- Create a positive and productive work environment, fostering a culture of growth and excellence.
 
-adding your skills, jobs and education.
+### Progrexion, Rexburg, ID
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+_Sales Management_  
+_June 2021 - April 2023_
 
-## Distribution
+- Collaborated with the public to identify and provide valuable services that meet their needs and goals.
+- Participated in leadership programs, including Manager in Training, to hone management and communication skills.
+- Coached and mentored team members, contributing to a positive and productive work environment.
+- Demonstrated a strong work ethic, adaptability, and commitment to achieving organizational goals.
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+## Skills
 
-### I. Use Github Pages to publish it online
+### Technical Skills
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+- **Programming Languages:** Python, SQL, C#, Clojure
+- **Data Visualization:** Altair
+- **Report Generation:** Quarto, Markdown
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools and Technologies:** Pandas, Tkinter, Streamlit, Scikit, Sklearn
 
-![](docs_setup.png)
+### Non-Technical Skills
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+- Leadership and management
+- Team collaboration
+- Problem-solving
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+<div id="webaddress">
+<a href="mailto:jwiser2053@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/joshuawiser">LinkedIn</a>
+</div>
 
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+<!-- Last updated: [Date] -->
